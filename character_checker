@@ -1,0 +1,8 @@
+letter = input().strip()
+
+if letter.isupper():
+    print("All Capital Letter")
+elif letter.islower:
+    print("All Small Letter")
+else:
+    print("Mix")
