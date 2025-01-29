@@ -6,3 +6,4 @@ elif letter.islower:
     print("All Small Letter")
 else:
     print("Mix")
+#comment
