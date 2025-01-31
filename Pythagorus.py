@@ -1,5 +1,4 @@
 import math
-a = float(input())
-b = float(input())
+a,b = map(float, input().split())
 c = math.sqrt(a**2+b**2)
-print(c)
+print(format(c,".6f"))
